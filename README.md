@@ -1,2 +1,2 @@
 # pdf_processing
-The ptoject to process pdfs.
+The project to process pdfs.
